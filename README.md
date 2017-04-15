@@ -1,5 +1,5 @@
-Curso-apuntadores-c-c-
-======================
+Curso apuntadores c/c++
+=======================
 
 Repositorio de los archivos utilizados en el curso de apuntadores c/c++ de la plataforma codeando.
 
